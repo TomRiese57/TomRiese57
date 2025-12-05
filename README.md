@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomRiese57)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomRiese57&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomRiese57&layout=compact&theme=dark&hide_border=true)
 
