@@ -1,12 +1,12 @@
 # Tom Riese
 
-Étudiant en BUT Informatique | Développeur Full Stack
+Computer Science Student | Full Stack Developer
 
 ---
 
-## 🔧 Stack Technique
+## 🔧 Tech Stack
 
-**Langages**  
+**Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,11 +26,11 @@
 ![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Bases de données**  
+**Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Outils & DevOps**  
+**Tools & DevOps**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -56,21 +56,21 @@
 
 ---
 
-## 📂 Projets Notables
+## 📂 Notable Projects
 
-**PM2** - Application e-commerce  
+**PM2** - E-commerce Application  
 Stack: HTML/CSS, JavaScript, PHP, MySQL
 
-**StickSpin** - Jeu vidéo 2D  
+**StickSpin** - 2D Video Game  
 Stack: Godot (GDScript), PHP, MySQL
 
-**Application Mobile IA** *(en développement)*  
+**Mobile AI Application** *(in development)*  
 Stack: Kotlin, TensorFlow
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-📧 tomriesepro@gmail.com  
-🔗 [linkedin.com/in/tom-riese](https://linkedin.com/in/tom-riese)  
-🌐 [portfolioriese.alwaysdata.net](https://portfolioriese.alwaysdata.net/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tomriesepro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-riese)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolioriese.alwaysdata.net/)
