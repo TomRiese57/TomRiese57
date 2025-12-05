@@ -64,9 +64,6 @@ Stack: HTML/CSS, JavaScript, PHP, MySQL
 **StickSpin** - Jeu vidéo 2D  
 Stack: Godot (GDScript), PHP, MySQL
 
-**Ethnocritique** - Site vitrine responsive  
-Stack: WordPress, Drupal
-
 **Application Mobile IA** *(en développement)*  
 Stack: Kotlin, TensorFlow
 
