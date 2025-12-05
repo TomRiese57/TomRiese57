@@ -50,7 +50,7 @@ Computer Science Student | Full Stack Developer
 
 ## 📊 GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomRiese57)](https://github.com/TomRiese57/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomRiese57)](https://github.com/TomRiese57/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomRiese57)](https://github.com/TomRiese57/github-readme-stats)
 
