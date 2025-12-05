@@ -1,77 +1,114 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0d1117%26height%3D250%26section%3Dheader%26text%3DTom%2520Riese%26fontSize%3D90%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3D%C3%89tudiant%2520en%2520Informatique%2520|%20Développeur%20Web&descAlignY=55&descAlign=50" alt="Tom Riese Banner" />
+# 👋 Salut, moi c'est Tom Riese !
 
-🎓 Étudiant en 3ème année de BUT Informatique à l'IUT de Metz
+### Étudiant en Informatique | Développeur Web & Mobile
 
-</div>
+Actuellement en 3ᵉ année de BUT Informatique à l'IUT de Metz, spécialisé en **Réalisation d'Applications**. Passionné par le développement web, mobile et l'intelligence artificielle.
 
-👋 À propos de moi
+🔍 **Je recherche un stage de 16 semaines** (23 février - 12 juin 2026)
 
-Passionné par le développement d'applications et le web, je me spécialise actuellement en Réalisation d'Applications. J'aime explorer de nouvelles technologies, du développement web avec Symfony à la création de jeux avec Godot.
+---
 
-🚀 Actuellement : Je suis à la recherche d'un stage de 16 semaines (du 23 février au 12 juin 2026).
+## 🛠️ Compétences Techniques
 
-🛠️ Ma Stack Technique
+### 💻 Langages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<div align="center">
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-Langages
+### 🗄️ Bases de données
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+### 🔧 Frameworks & CMS
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
+### 🛠️ Outils & Environnement
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
+---
 
+## 🚀 Projets Récents
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" />
+### 🛍️ [PM2](https://github.com/TomRiese57) - E-commerce de Pulls Moches
+Application web e-commerce complète avec gestion de catalogue, panier et commandes.  
+**Tech:** HTML/CSS, JavaScript, PHP, MySQL
 
-Web & Frameworks
+### 🕹️ [StickSpin](https://github.com/TomRiese57) - Jeu Vidéo 2D
+Jeu vidéo développé avec Godot mettant en pratique la programmation orientée objet et la création d'interfaces interactives.  
+**Tech:** Godot (GDScript), HTML/CSS, JavaScript, PHP
 
+### ✉️ [Ethnocritique](https://ethnocritique.com/)
+Site vitrine moderne et responsive réalisé durant mon stage au Centre de Recherche sur les Médiations.  
+**Tech:** WordPress, Drupal
 
+### 📱 Application Mobile IA *(en cours)*
+Application Android intégrant TensorFlow pour la reconnaissance d'objets en temps réel.  
+**Tech:** Kotlin, TensorFlow
 
+---
 
+## 📊 GitHub Stats
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Symfony-000000%3Fstyle%3Dfor-the-badge%26logo%3Dsymfony%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WordPress-21759B%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomRiese57&layout=compact&theme=radical)
 
-Outils & Base de données
+---
 
+## 🎓 Formation
 
+**BUT Informatique** - IUT de Metz (2023 - Actuellement)  
+Spécialisation en Réalisation d'Applications
 
+**Baccalauréat** - Lycée Louis Vincent (2023)  
+Spécialités : Mathématiques, NSI, Physique-Chimie
 
+---
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Godot-478CBF%3Fstyle%3Dfor-the-badge%26logo%3Dgodot-engine%26logoColor%3Dwhite" />
+## 💼 Expérience
 
-</div>
+**Développeur Web** - Centre de Recherche sur les Médiations, Metz (2025)  
+Création du site web Ethnocritique en partenariat avec l'Université de Montréal
 
-🔭 Projets Récents
+---
 
-Voici quelques projets sur lesquels j'ai travaillé récemment (plus de détails sur mon portfolio) :
+## 🌐 Langues
 
-Ethnocritique (2025) : Site vitrine réalisé pour le Centre de Recherche sur les Médiations (WordPress/Drupal).
+🇫🇷 **Français** - Langue maternelle  
+🇬🇧 **Anglais** - Niveau B1  
+🇩🇪 **Allemand** - Niveau A2
 
-PM2 (2025) : Application e-commerce de vente de pulls de Noël (PHP/MySQL).
+---
 
-StickSpin (2024) : Jeu vidéo 2D développé avec Godot.
+## 🎮 Centres d'intérêt
 
-Application Mobile (En cours) : App Android intégrant TensorFlow pour la reconnaissance d'objets.
+- 💻 Hardware & nouvelles technologies
+- 🎮 Gaming & développement de jeux vidéo
+- 🤖 Intelligence artificielle
 
-📊 Statistiques GitHub
+---
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTomRiese57%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" height="180" alt="Stats GitHub" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTomRiese57%26layout%3Dcompact%26theme%3Dradical" height="180" alt="Top Langages" />
-</div>
+## 📫 Me contacter
 
-<div align="center">
-<small>Hardware • Gaming • IA</small>
-</div>
+[![Email](https://img.shields.io/badge/-tomriesepro@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tomriesepro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Tom%20Riese-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-riese)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolioriese.alwaysdata.net/)
+
+---
+
+⭐️ N'hésite pas à explorer mes repositories et à me contacter pour toute collaboration !
