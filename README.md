@@ -56,19 +56,6 @@ Computer Science Student | Full Stack Developer
 
 ---
 
-## 📂 Notable Projects
-
-**PM2** - E-commerce Application  
-Stack: HTML/CSS, JavaScript, PHP, MySQL
-
-**StickSpin** - 2D Video Game  
-Stack: Godot (GDScript), PHP, MySQL
-
-**Mobile AI Application** *(in development)*  
-Stack: Kotlin, TensorFlow
-
----
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tomriesepro@gmail.com)
